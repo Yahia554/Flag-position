@@ -223,4 +223,8 @@ footer {
   position: absolute;
   top: 90px;
   left: 80px;
+  transition: 0.3s;
+}
+.s-ims:hover img {
+  transform: scale(2);
 }
